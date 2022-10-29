@@ -34,3 +34,7 @@ This repository contains a prototype of the _Implementing Partners (IPs)_ compon
 1. IP receives the funds from UNICEF.
 1. IP distributes the funds, while maintaining a detailed record of expenditure.
 1. Direct distribution of funds to beneficiaries.
+
+Prototype smart contract: [smart-contracts/README.md](smart-contracts/README.md)
+
+Prototype user interface (UI): [user-interface/README.md](user-interface/README.md)
