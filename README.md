@@ -27,7 +27,7 @@ graph TD;
     Merchant2-->|goods/services|Beneficiary3
 ```
 
-### Implementing Partners (IPs)
+### Implementing Partners (IPs) - Prototype
 
 This repository contains a prototype of the _Implementing Partners (IPs)_ component, with the following supported features:
 
