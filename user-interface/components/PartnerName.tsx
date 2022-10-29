@@ -43,7 +43,7 @@ function Name() {
 
   if (data) {
     return (
-      <span>{data}</span>
+      <span>{String(data)}</span>
     )
   }
   return (
