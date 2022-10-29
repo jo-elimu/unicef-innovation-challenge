@@ -31,6 +31,6 @@ graph TD;
 
 This repository contains a prototype of the _Implementing Partners (IPs)_ component, with the following supported features:
 
-1. IP receives the funds.
+1. IP receives the funds from UNICEF.
 1. IP distributes the funds, while maintaining a detailed record of expenditure.
 1. Direct distribution of funds to beneficiaries.
