@@ -5,7 +5,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 const user = {
   name: 'Ethereum account',
   address: '0x1a2b...3c4d',
-  imageUrl: 'http://identicon.net/img/identicon.png'
+  imageUrl: 'https://ethereum.org/static/4b5288012dc4b32ae7ff21fccac98de1/448ee/eth-diamond-black-gray.webp'
 }
 const navigation = [
   { name: 'Cash Transfers', href: '#', current: false },

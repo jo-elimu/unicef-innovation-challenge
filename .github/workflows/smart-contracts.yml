@@ -1,4 +1,4 @@
-name: user-interface/ CI
+name: smart-contracts/ CI
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     defaults:
       run:
-        working-directory: user-interface
+        working-directory: smart-contracts
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
@@ -23,8 +23,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-        cache-dependency-path: user-interface/package-lock.json
+        cache-dependency-path: smart-contracts/package-lock.json
     - run: npm install
-    - run: npm run lint
-    - run: npm run build
-    - run: npm run e2e:headless
+    - run: npx hardhat clean
+    - run: npx hardhat compile
+    - run: npx hardhat test
+    - run: npx hardhat coverage
