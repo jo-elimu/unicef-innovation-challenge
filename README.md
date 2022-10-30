@@ -41,4 +41,4 @@ Prototype user interface (UI): [user-interface/README.md](user-interface/README.
 
 Prototype solution summary: [PDF](https://github.com/jo-elimu/unicef-innovation-challenge/releases/download/0.0.1/Jo_Grimstad_Solution_Summary.pdf)
 
-Prototype walkthrough: [Video](https://github.com/jo-elimu/unicef-innovation-challenge/releases/download/0.0.1/Jo_Grimstad_Walkthrough.mov)
+Prototype walkthrough: [Video](https://github.com/jo-elimu/unicef-innovation-challenge/releases/download/0.0.1/Jo_Grimstad_Walkthrough.mp4)
