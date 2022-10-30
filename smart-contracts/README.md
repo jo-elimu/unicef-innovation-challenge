@@ -2,7 +2,7 @@
 
 Goerli deployment: https://goerli.etherscan.io/address/0x3ac4da1d4a5f3a522d9da129a81589d13e322b97#code
 
-Each Implementing Partner will have its own smart contract deployment.
+Each Implementing Partner will have its own smart contract deployment: [`contracts/ImplementingPartner.sol`](contracts/ImplementingPartner.sol)
 
 ## Build Instructions
 
