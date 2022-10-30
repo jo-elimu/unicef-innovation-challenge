@@ -27,3 +27,5 @@ UNICEF transfers ETH to the [smart contract](../smart-contracts/README.md).
 The implementing partner connects their Ethereum wallet and presses the "Distribute funds" button to initiate a distribution to a beneficiary.
 
 The implementing partner is asked to provide a note explaining the expenditure when executing the transaction.
+
+![](https://user-images.githubusercontent.com/1451036/198859339-2b66dd80-5693-4e67-98ee-7f3144305c50.png)
