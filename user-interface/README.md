@@ -28,4 +28,4 @@ The implementing partner connects their Ethereum wallet and presses the "Distrib
 
 The implementing partner is asked to provide a note explaining the expenditure when executing the transaction.
 
-![](https://user-images.githubusercontent.com/1451036/198859339-2b66dd80-5693-4e67-98ee-7f3144305c50.png)
+![](https://user-images.githubusercontent.com/1451036/198859367-ad449729-2808-42e5-8049-18138121ecc2.png)
