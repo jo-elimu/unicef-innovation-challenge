@@ -38,3 +38,7 @@ This repository contains a prototype of the _Implementing Partners (IPs)_ compon
 Prototype smart contract: [smart-contracts/README.md](smart-contracts/README.md)
 
 Prototype user interface (UI): [user-interface/README.md](user-interface/README.md)
+
+Solution summary: [slides.pdf](slides.pdf)
+
+Walkthrough video: [video.mov](video.mov)
