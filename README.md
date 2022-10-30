@@ -39,6 +39,6 @@ Prototype smart contract: [smart-contracts/README.md](smart-contracts/README.md)
 
 Prototype user interface (UI): [user-interface/README.md](user-interface/README.md)
 
-Solution summary: [slides.pdf](slides.pdf)
+Solution summary: [PDF](https://github.com/jo-elimu/unicef-innovation-challenge/releases/download/0.0.1/Jo_Grimstad_Solution_Summary.pdf)
 
-Walkthrough video: [video.mov](video.mov)
+Walkthrough: [Video](https://github.com/jo-elimu/unicef-innovation-challenge/releases/download/0.0.1/Jo_Grimstad_Walkthrough.mov)
