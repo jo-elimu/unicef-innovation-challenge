@@ -1,6 +1,6 @@
 # Implementing Partners - User Interface
 
-Live demo: https://unicef-innovation-challenge.netlify.app
+User interface for interacting with the [smart contract](../smart-contracts/README.md).
 
 ## Build Instructions
 
